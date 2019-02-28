@@ -1,0 +1,8 @@
+Day:2
+=====
+-How to New component
+-Import and add new component in index.js
+-state - declare and use
+-properties - pass it from index.js and display in the new component
+-Stateless component
+-Ternary
