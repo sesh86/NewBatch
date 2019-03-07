@@ -6,7 +6,9 @@ import Demo from './components/Demo';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-<div><App /><Demo day="Thursday" date="28th Feb"/></div>
+<div><App />
+<Demo name="John" date="7th March"/>
+</div>
 , document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
